@@ -65,14 +65,12 @@ python -m spacy download en_core_web_sm
 **Accuracy	Model performance on unseen data	~90%**
 <img width="640" height="473" alt="image" src="https://github.com/user-attachments/assets/8fe6d65d-90ee-4f5e-a904-59cc1309f7d2" />
 
-Loss	Binary cross-entropy	~0.25
+**Loss	Binary cross-entropy	~0.15**
+
+<img width="600" height="478" alt="image" src="https://github.com/user-attachments/assets/62a3f9b0-8b92-41cf-b841-294cebceeb5a" />
 
 
-I
+## 🧑‍💻 Author
+**Mourad sleem ibshena**
 
-🧑‍💻 Author
-
-Your Name
-📧 [your.email@example.com
-]
-💻 [GitHub Profile Link]
+moradbshina@gmail.com
